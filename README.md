@@ -10,20 +10,18 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
 
-[✍️ Introduce yourself]
+## ✍️ My Cloud Journey
 
-[✍️ Tell us why you started this challenge]
+✍️ Hi, my name is Moiz Tariq. I am 2x AWS certified and the current AWS Cloud Club Captain of Keele University. This is my cloud resume challenge project.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+✍️ I have started this challenge to improve my AWS skills and showcase my experience in working with AWS services and technologies.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+✍️ I am currently seeking AWS related roles, whether part-time, full time or internships.
+
+- [✍️ Link to my Github](https://github.com/MoizTariq)
+- [✍️ Link to my LinkedIn](https://www.linkedin.com/in/moiz-tariq)
 
 ## Stepping out the door
 
