@@ -12,10 +12,6 @@
 
 - 🖼️ Generating key pairs to access a particular EC2 instance.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
 ### Step 1
 
 Go to AWS EC2 Console
