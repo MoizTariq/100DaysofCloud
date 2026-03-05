@@ -1,52 +1,45 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Creating Key Pairs in AWS
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Generating and creating key pairs is one of the first things that needs to be studied for someone interacting with cloud.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Basic Knowledge of and prior interaction with the AWS Console.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- 🖼️ Generating key pairs to access a particular EC2 instance.
 
 ## Try yourself
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+### Step 1
 
-![Screenshot](https://via.placeholder.com/500x300)
+Go to AWS EC2 Console
 
-### Step 1 — Summary of Step
+### Step 2
 
-![Screenshot](https://via.placeholder.com/500x300)
+Go to Key Pairs.
 
-### Step 3 — Summary of Step
+### Step 3
 
-![Screenshot](https://via.placeholder.com/500x300)
+Click on Create Key Pair
+
+### Step 4
+
+Name your Key Pair and select 'RSA' as key pair type.
+
+### Step 5
+
+Click on Create Key Pair, download the file and your key pair is now created.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I learned how to create a key pair.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Spin up a new EC2 instance using the created key pair
