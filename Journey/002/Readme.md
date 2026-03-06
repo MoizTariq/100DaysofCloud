@@ -1,52 +1,42 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Creating a Security Group within a VPC
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+To enable and disable inbound and outbound rules within a security group of VPC as well as create and delete one.
 
 ## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Basic knowledge of what a VPC is.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Restrict access to certain IP addresses and/or certain protocols to increase security.
 
 ### Step 1 — Summary of Step
+Go to VPC
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 — Summary of Step
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+Go to Security Group tab on the left.
 
 ### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Click on Create Security Group
+
+### Step 4 — Summary of Step
+Add inbound rule to allow only http traffic to all IP addresses (0.0.0.0/0)
+
+### Step 5 — Summary of Step
+
+Add inbound rule to allow only ssh traffic to all IP addresses (0.0.0.0/0)
+
+### Step 6 — Summary of Step
+
+Click on Create Security Group.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ I know how to add inbound and outbound rules and create and delete secruity groups within VPCs.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+✍️ Edit inbound/outbound rules based on requirements.
