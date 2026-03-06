@@ -11,25 +11,26 @@ Basic knowledge of what a VPC is.
 
 Restrict access to certain IP addresses and/or certain protocols to increase security.
 
-### Step 1 — Summary of Step
+### Step 1
 Go to VPC
 
-### Step 2 — Summary of Step
+### Step 2
 
 Go to Security Group tab on the left.
 
-### Step 3 — Summary of Step
+### Step 3
 
 Click on Create Security Group
 
-### Step 4 — Summary of Step
+### Step 4
+
 Add inbound rule to allow only http traffic to all IP addresses (0.0.0.0/0)
 
-### Step 5 — Summary of Step
+### Step 5
 
 Add inbound rule to allow only ssh traffic to all IP addresses (0.0.0.0/0)
 
-### Step 6 — Summary of Step
+### Step 6
 
 Click on Create Security Group.
 
