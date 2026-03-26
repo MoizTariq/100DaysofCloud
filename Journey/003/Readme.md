@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Creating a Subnet in AWS
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ To allow efficient allocation of IP addresses within the VPC.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Create a VPC or use default VPC.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- 🖼️ Allocating different blocks/subnets to different departments within a company.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- ✍️ Only unique IP addresses can be allocated and can't be overlapped.
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Go to VPC
 
-### Step 1 — Summary of Step
+### Step 2 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Click on Subnets on the left hand side.
 
 ### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Click on Create Subnet
 
-## ☁️ Cloud Outcome
+### Step 4 — Summary of Step
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Select VPC in which subnet is to be created.
 
-## Next Steps
+### Step 5 — Summary of Step
 
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Type the IP address range to be allocated to the subnet. Note: It must be unique and within the VPC range.
