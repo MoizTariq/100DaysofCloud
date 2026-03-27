@@ -1,52 +1,41 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Enable Versioning in S3
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Files may get updated from time to time and it is important on how to enable versioning to support that.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Have a basic general idea on what S3 is and how it works.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- ✍️ Rollback needs to be done and older files may need to be used. 
 
-## Cloud Research
+### Step 1 
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Go to S3.
 
-## Try yourself
+### Step 2
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Click the bucket name you want to enable versioning on.
 
-### Step 1 — Summary of Step
+### Step 3 
 
-![Screenshot](https://via.placeholder.com/500x300)
+Click on properties tab.
 
-### Step 1 — Summary of Step
+### Step 4
 
-![Screenshot](https://via.placeholder.com/500x300)
+Click on edit button under the bucket versioning section.
 
-### Step 3 — Summary of Step
+### Step 5 
 
-![Screenshot](https://via.placeholder.com/500x300)
+Click on enable and save changes.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ Enable versioning on buckets in AWS S3.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+✍️ Explore more S3 features and dive deeper on some of them.
